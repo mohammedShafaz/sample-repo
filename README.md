@@ -1,0 +1,2 @@
+#SAMPLE
+A sample text.
